@@ -14,7 +14,7 @@ public class weightage {
 	}
 
 	public static void main(String[] args) {
-		int arr[]= {49,36,10,8,12};
+		int arr[]= {49,36,8,10,12};
 		int output[][]=new int[5][2];
 		
 		for(int i=0;i<arr.length;i++) {
